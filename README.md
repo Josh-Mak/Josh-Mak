@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Josh-Mak
+- 👀 I’m interested in everything Python!
+- 📫 How to reach me: JoshMak@hotmail.com
