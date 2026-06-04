@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Josh-Mak
-- 👀 I’m interested in everything Python!
+- 👀 I’m interested in Geospatial & Game Development!
 - 📫 How to reach me: JoshMak@hotmail.com
